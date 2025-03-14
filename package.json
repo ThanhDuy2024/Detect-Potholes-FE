@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.3.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -35,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ThanhDuy2024/Detect-Potholes-FE.git",
+  "author": "Duy Lâm <thanhduyuth@gmail.com>",
+  "license": "MIT"
 }
